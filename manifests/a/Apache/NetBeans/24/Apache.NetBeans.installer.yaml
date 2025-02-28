@@ -16,7 +16,7 @@ Dependencies:
 ReleaseDate: 2024-12-05
 Installers:
 - Architecture: x64
-  InstallerUrl: https://dlcdn.apache.org/netbeans/netbeans-installers/24/Apache-NetBeans-24-bin-windows-x64.exe
+  InstallerUrl: https://archive.apache.org/dist/netbeans/netbeans-installers/24/Apache-NetBeans-24-bin-windows-x64.exe
   InstallerSha256: 901623BC0B6ADD7A6A9D06B825298A1B222A4C81115DE7A3E6D2213ED105CD9B
 ManifestType: installer
 ManifestVersion: 1.9.0
